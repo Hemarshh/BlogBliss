@@ -1,0 +1,59 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+/* Custom styles for the About section */
+
+
+
+.bg-light {
+  background-color: #fdf6fa !important; /* Light pink */
+}
+
+.text-primary {
+  color: #f361af; /* Primary pink */
+}
+
+.border-danger {
+  border-color: #fdaed8; /* Light pink for borders */
+}
+
+.btn-danger {
+  background-color: #f361af; /* Darker pink for the button */
+  color: white; /* White text on button */
+}
